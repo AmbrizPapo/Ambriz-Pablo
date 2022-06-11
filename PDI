@@ -1,42 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T08:46:32.992Z" agent="5.0 (Windows)" etag="F08deMA2qcU48HUqPPmW" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-11T04:22:28.415Z" agent="5.0 (Windows)" etag="IU-acu3VBXl2ZT5-Zb0a" version="18.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1445" dy="678" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="905" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Ecografias para reconocimiento del Genero del Bebe" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#D5E8D4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Procesamiento Digital de una Se&lt;span&gt;&lt;span data-dobid=&quot;hdw&quot;&gt;ñ&lt;/span&gt;&lt;/span&gt;al de ECG" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#D5E8D4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="361" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="&lt;div&gt;Adquirimos una &lt;b&gt;ecografia&lt;/b&gt;, &lt;br&gt;&lt;/div&gt;&lt;div&gt;a traves de un diagnostico&lt;/div&gt;&lt;div&gt;que aprovecha ondas&lt;/div&gt;&lt;div&gt;sonoras (&lt;b&gt;ultrasonido&lt;/b&gt;) y&lt;/div&gt;&lt;div&gt;las digitaliza generando una&lt;/div&gt;&lt;div&gt;representacion grafica como &lt;br&gt;&lt;/div&gt;&lt;div&gt;una &lt;b&gt;imagen &lt;/b&gt;para su lectura&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
-          <mxGeometry x="-1" y="169" relative="1" as="geometry">
-            <mxPoint x="-20" y="-80" as="offset" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="&lt;div&gt;Adquirimos una &lt;b&gt;Se&lt;span&gt;&lt;span data-dobid=&quot;hdw&quot;&gt;ñ&lt;/span&gt;&lt;/span&gt;al de ECG&lt;/b&gt;&lt;/div&gt;&lt;div&gt;a traves de un diagnostico&lt;/div&gt;&lt;div&gt;que aprovecha senales bioelectricas en&lt;/div&gt;&lt;div&gt;el cuerpo y piel del paciente&lt;br&gt;&lt;/div&gt;&lt;div&gt;captadas por electrodos y generalmente&lt;br&gt;&lt;/div&gt;&lt;div&gt;procesadas en un electrocardiografo&lt;/div&gt;&lt;div&gt;que las digitaliza generando una&lt;/div&gt;&lt;div&gt;representacion grafica como &lt;br&gt;&lt;/div&gt;&lt;div&gt;una &lt;b&gt;onda &lt;/b&gt;para su lectura&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+          <mxGeometry x="-1" y="172" relative="1" as="geometry">
+            <mxPoint x="-17" y="-75" as="offset" />
             <mxPoint x="421" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;div&gt;Adquisicion y&lt;/div&gt;&lt;div&gt;Lectura&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;strokeColor=#FF8142;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="361" y="180" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="nw1rNsw7jsfkPNeiln9d-3" value="&lt;div&gt;Aplicamos un filtro rgb2gray a&lt;/div&gt;&lt;div&gt;nuestra imagen de la ecografia, &lt;br&gt;&lt;/div&gt;&lt;div&gt;resultando en un cambio de &lt;br&gt;&lt;/div&gt;&lt;div&gt;nuestra imagen a escala de grises,&lt;/div&gt;&lt;div&gt;asi como reducehaze reduciendo &lt;br&gt;&lt;/div&gt;&lt;div&gt;niebla presentada como ruido en &lt;br&gt;&lt;/div&gt;&lt;div&gt;nuestra imagen asi como localcontrat&lt;/div&gt;&lt;div&gt;aumentando el contraste&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nw1rNsw7jsfkPNeiln9d-4">
-          <mxGeometry x="-1" y="239" relative="1" as="geometry">
+        <mxCell id="nw1rNsw7jsfkPNeiln9d-3" value="&lt;div&gt;Aplicamos un filtro de pasobanda a&lt;/div&gt;&lt;div&gt;nuestra Se&lt;span&gt;&lt;span data-dobid=&quot;hdw&quot;&gt;ñ&lt;/span&gt;&lt;/span&gt;al de ECG,&lt;br&gt;&lt;/div&gt;&lt;div&gt;resultando en un cambio de &lt;br&gt;&lt;/div&gt;&lt;div&gt;nuestra Se&lt;span&gt;&lt;span data-dobid=&quot;hdw&quot;&gt;ñ&lt;/span&gt;&lt;/span&gt;al a reduciendo su amplitud&lt;br&gt;&lt;/div&gt;&lt;div&gt;de la misma forma aplicamos una fase&lt;/div&gt;&lt;div&gt;de normalizado proporcionandonos un&lt;/div&gt;&lt;div&gt;grafico de nuestra Se&lt;span&gt;&lt;span data-dobid=&quot;hdw&quot;&gt;ñ&lt;/span&gt;&lt;/span&gt;al de ECG filtrado&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nw1rNsw7jsfkPNeiln9d-4" edge="1">
+          <mxGeometry x="-0.5667" y="254" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="421" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-X6vQMND9zzPdYTbujVj-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nw1rNsw7jsfkPNeiln9d-4" target="-X6vQMND9zzPdYTbujVj-6">
+        <mxCell id="-X6vQMND9zzPdYTbujVj-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nw1rNsw7jsfkPNeiln9d-4" target="-X6vQMND9zzPdYTbujVj-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nw1rNsw7jsfkPNeiln9d-4" value="Filtrado" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;strokeColor=#FF3333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nw1rNsw7jsfkPNeiln9d-4" value="Filtrado" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;strokeColor=#FF3333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="371" y="310" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nw1rNsw7jsfkPNeiln9d-6" value="&lt;div&gt;Presentamos nuestra imagen&lt;/div&gt;&lt;div&gt;procesada para poder entregar&lt;/div&gt;&lt;div&gt;un resultado final listo para un&lt;/div&gt;&lt;div&gt;analisis adecuado mostrando &lt;br&gt;&lt;/div&gt;&lt;div&gt;con el uso de una interfaz grafica&lt;/div&gt;&lt;div&gt;GUI, para el facil acceso del usuario,&lt;br&gt;&lt;/div&gt;&lt;div&gt;como nuestro proceso realza &lt;br&gt;&lt;/div&gt;&lt;div&gt;la figura de nuestro paciente &lt;br&gt;&lt;/div&gt;&lt;div&gt;facilitando la identificacion de&lt;/div&gt;&lt;div&gt;su aparato reproductivo &lt;br&gt;&lt;/div&gt;&lt;div&gt;determinando su genero biologico&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nw1rNsw7jsfkPNeiln9d-7" target="nw1rNsw7jsfkPNeiln9d-8">
+        <mxCell id="nw1rNsw7jsfkPNeiln9d-6" value="&lt;div&gt;Presentamos nuestras Se&lt;span&gt;&lt;span data-dobid=&quot;hdw&quot;&gt;ñ&lt;/span&gt;&lt;/span&gt;ales de &lt;br&gt;&lt;/div&gt;&lt;div&gt;ECG para poder entregar&lt;/div&gt;&lt;div&gt;un resultado final listo para un&lt;/div&gt;&lt;div&gt;analisis y diagnostico adecuado&lt;/div&gt;&lt;div&gt;aprovechando el uso de nuestras&lt;/div&gt;&lt;div&gt;graficas facilitando el diagnostico &lt;br&gt;&lt;/div&gt;&lt;div&gt;y la identificacion de fenomenos &lt;br&gt;&lt;/div&gt;&lt;div&gt;anormales que puedan ser indicadores &lt;br&gt;&lt;/div&gt;&lt;div&gt;de problemas cardiacos o fisicos en el&lt;/div&gt;&lt;div&gt;paciente&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nw1rNsw7jsfkPNeiln9d-7" target="nw1rNsw7jsfkPNeiln9d-8" edge="1">
           <mxGeometry x="0.7183" y="259" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nw1rNsw7jsfkPNeiln9d-7" target="AzLqkA1C_2fu3hRiZZ0C-18">
+        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nw1rNsw7jsfkPNeiln9d-7" target="AzLqkA1C_2fu3hRiZZ0C-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="510" y="629" />
@@ -44,87 +44,87 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nw1rNsw7jsfkPNeiln9d-7" value="Visualizacion" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;strokeColor=#3BFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nw1rNsw7jsfkPNeiln9d-7" value="Visualizacion" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;strokeColor=#3BFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="371" y="589" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nw1rNsw7jsfkPNeiln9d-8" value="&lt;div&gt;Propiciamos el &lt;b&gt;analisis&lt;/b&gt; optimo de nuestra ecografia aumentando precision y reduciendo el ruido y estructuras innecesarias para la&lt;/div&gt;&lt;div&gt;identificacion del paciente&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#CCFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nw1rNsw7jsfkPNeiln9d-8" value="&lt;div&gt;Propiciamos el &lt;b&gt;analisis&lt;/b&gt; optimo de nuestra Se&lt;span&gt;&lt;span data-dobid=&quot;hdw&quot;&gt;ñ&lt;/span&gt;&lt;/span&gt;al de ECG filtrando y normalizando ruido y estructuras innecesarias para el diagnostico del paciente.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#CCFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="346" y="740" width="150" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="nw1rNsw7jsfkPNeiln9d-9" value="&lt;div&gt;Aprovechamos la segmentacion&lt;br&gt;&lt;/div&gt;&lt;div&gt;de manera que nuestro objetivo, &lt;br&gt;&lt;/div&gt;&lt;div&gt;nuestro paciente sea resaltado &lt;br&gt;&lt;/div&gt;&lt;div&gt;dentro de nuestra imagen, utilizando&lt;/div&gt;&lt;div&gt;la aplicacion de matlab image segmenter&lt;/div&gt;&lt;div&gt;asi como una rotacion con imrotate para&lt;/div&gt;&lt;div&gt;obtener el resalte deseado&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nw1rNsw7jsfkPNeiln9d-10">
-          <mxGeometry x="-0.3333" y="-281" relative="1" as="geometry">
+        <mxCell id="nw1rNsw7jsfkPNeiln9d-9" value="&lt;div&gt;Aprovechamos herramientas&lt;/div&gt;&lt;div&gt;basicas dentro de la plataforma&lt;/div&gt;&lt;div&gt;de matlab como grid y figure para&lt;/div&gt;&lt;div&gt;poder presentar las Se&lt;span&gt;&lt;span data-dobid=&quot;hdw&quot;&gt;ñ&lt;/span&gt;&lt;/span&gt;ales de ECG&lt;/div&gt;&lt;div&gt;de nuestro paciente obteniendo&lt;/div&gt;&lt;div&gt;distincion entre los procesamientos&lt;/div&gt;&lt;div&gt;realizados y resultados obtenidos&lt;/div&gt;&lt;div&gt;de la adquisicion de nuestra]&lt;/div&gt;&lt;div&gt;Se&lt;span&gt;&lt;span data-dobid=&quot;hdw&quot;&gt;ñ&lt;/span&gt;&lt;/span&gt;al de ECG deseada&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nw1rNsw7jsfkPNeiln9d-10" edge="1">
+          <mxGeometry x="0.2" y="-270" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="421" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nw1rNsw7jsfkPNeiln9d-10" target="AzLqkA1C_2fu3hRiZZ0C-11">
+        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nw1rNsw7jsfkPNeiln9d-10" target="AzLqkA1C_2fu3hRiZZ0C-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nw1rNsw7jsfkPNeiln9d-10" value="Segmentacion" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;strokeColor=#FFD966;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nw1rNsw7jsfkPNeiln9d-10" value="Graficado" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;strokeColor=#FFD966;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="366" y="450" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-X6vQMND9zzPdYTbujVj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-X6vQMND9zzPdYTbujVj-1" target="WIyWlLk6GJQsqaUBKTNV-6">
+        <mxCell id="-X6vQMND9zzPdYTbujVj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-X6vQMND9zzPdYTbujVj-1" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-X6vQMND9zzPdYTbujVj-1" value="Ultrasonido" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=10;fillColor=#FFFFFF;strokeColor=#499100;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-X6vQMND9zzPdYTbujVj-1" value="ECG" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=10;fillColor=#FFFFFF;strokeColor=#499100;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="241" y="195" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-X6vQMND9zzPdYTbujVj-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-X6vQMND9zzPdYTbujVj-3" target="-X6vQMND9zzPdYTbujVj-1">
+        <mxCell id="-X6vQMND9zzPdYTbujVj-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-X6vQMND9zzPdYTbujVj-3" target="-X6vQMND9zzPdYTbujVj-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-X6vQMND9zzPdYTbujVj-3" value="Paciente" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=10;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-X6vQMND9zzPdYTbujVj-3" value="Paciente" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=10;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="231" y="140" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-X6vQMND9zzPdYTbujVj-5" value="&lt;div&gt;Presentacion&lt;/div&gt;&lt;div&gt;de imagen&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=10;fillColor=#FFFFFF;strokeColor=#FFD966;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-X6vQMND9zzPdYTbujVj-5" value="&lt;div&gt;Presentacion de la&lt;br&gt;&lt;/div&gt;&lt;div&gt;Se&lt;span&gt;&lt;span data-dobid=&quot;hdw&quot;&gt;ñ&lt;/span&gt;&lt;/span&gt;al de ECG&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=10;fillColor=#FFFFFF;strokeColor=#FFD966;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="482.5" y="680" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-X6vQMND9zzPdYTbujVj-6" target="AzLqkA1C_2fu3hRiZZ0C-2">
+        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-X6vQMND9zzPdYTbujVj-6" target="AzLqkA1C_2fu3hRiZZ0C-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-X6vQMND9zzPdYTbujVj-6" value="Matlab" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=10;fillColor=#FFFFFF;strokeColor=#660000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-X6vQMND9zzPdYTbujVj-6" value="Matlab" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=10;fillColor=#FFFFFF;strokeColor=#660000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="501" y="330" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AzLqkA1C_2fu3hRiZZ0C-2" target="AzLqkA1C_2fu3hRiZZ0C-6">
+        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AzLqkA1C_2fu3hRiZZ0C-2" target="AzLqkA1C_2fu3hRiZZ0C-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.15254237288135594;fontSize=10;strokeColor=#4AFF62;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.15254237288135594;fontSize=10;strokeColor=#4AFF62;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="502" y="380" width="59" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-5" value="rgb2gray" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-5" value="pasobanda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="501" y="385" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-6" value="." style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.15254237288135594;fontSize=10;strokeColor=#5F2EFF;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-6" value="." style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.15254237288135594;fontSize=10;strokeColor=#5F2EFF;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="498" y="431" width="69" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-9" value="reducehaze" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-9" value="normalizado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;rotation=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="501.5" y="435" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AzLqkA1C_2fu3hRiZZ0C-11" target="AzLqkA1C_2fu3hRiZZ0C-13">
+        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AzLqkA1C_2fu3hRiZZ0C-11" target="AzLqkA1C_2fu3hRiZZ0C-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-11" value="Matlab" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=10;fillColor=#FFFFFF;strokeColor=#660000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-11" value="Matlab" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=10;fillColor=#FFFFFF;strokeColor=#660000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="259.5" y="476.5" width="47" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AzLqkA1C_2fu3hRiZZ0C-13" target="AzLqkA1C_2fu3hRiZZ0C-15">
+        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AzLqkA1C_2fu3hRiZZ0C-13" target="AzLqkA1C_2fu3hRiZZ0C-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.15254237288135594;fontSize=10;strokeColor=#A9C4EB;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.15254237288135594;fontSize=10;strokeColor=#A9C4EB;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="254" y="513" width="59" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-14" value="rotate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-14" value="grid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="253" y="518" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-15" value="." style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.15254237288135594;fontSize=10;strokeColor=#FF7AD3;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-15" value="." style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.15254237288135594;fontSize=10;strokeColor=#FF7AD3;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="250" y="564" width="69" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-16" value="&lt;div&gt;image&lt;/div&gt;&lt;div&gt;segmenter&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-16" value="figure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;rotation=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="253.5" y="568" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0.578;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AzLqkA1C_2fu3hRiZZ0C-18" target="-X6vQMND9zzPdYTbujVj-5">
+        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0.578;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AzLqkA1C_2fu3hRiZZ0C-18" target="-X6vQMND9zzPdYTbujVj-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-18" value="GUI" style="shape=actor;whiteSpace=wrap;html=1;fontSize=10;strokeColor=#FFB24D;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AzLqkA1C_2fu3hRiZZ0C-18" value="Impresion de las graficas" style="shape=actor;whiteSpace=wrap;html=1;fontSize=10;strokeColor=#FFB24D;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="521" y="585" width="40" height="60" as="geometry" />
         </mxCell>
       </root>
